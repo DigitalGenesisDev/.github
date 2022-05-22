@@ -1,9 +1,10 @@
-# DigitalGenesisDev Information and Guidlines
-#### This README contains information about how you can use this GitHub organization and the repositories contained in it. By using any repository inside of this orginization you are required to follow the rules and guidlines we have set. Failure to comply can and will (within reason permitted by Digital Genesis LLC) proceed with direct or legal action. Please read the following with caution and your full comprehensive, undevided attention.
+# Digital Genesis Public Github
+#### Welcome to our organization! Everything in this org is public and open-source projects made by Digital Genesis and its subsidiary's. Feel free to remix, remake or help improve any of the things inside of this org.
 
-## Guidlines
+## Legal Stuff
+#### Please go to our [Start Here Repo](https://github.com/DigitalGenesisDev/Start-Here) before you do anything else, it contains all of the legal stuff you want (and most likely need) to know while working on and/or with anything from this organization.
 
-## License
+## Our Main License
 
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
